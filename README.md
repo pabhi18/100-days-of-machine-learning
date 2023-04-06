@@ -6,7 +6,7 @@ Welcome to my 100 Days of Machine Learning project! In this repository, I will d
 
 This project is a personal challenge to learn Machine Learning for 100 days straight. Every day, I will study, practice, and document what I have learned. My goal is to become proficient in the fundamentals of Machine Learning and develop practical skills that I can use in real-world projects.
 
-##Why am I doing this?
+## Why am I doing this?
 
 I am doing this project to learn Machine Learning from scratch and gain hands-on experience in the field. As a beginner, I believe that the best way to learn is to practice and apply what I have learned. Through this project, I hope to build a strong foundation in Machine Learning that will enable me to tackle more advanced concepts in the future.
 
