@@ -2,7 +2,7 @@
 
 Machine Learning can be broadly classified into four types: supervised, unsupervised, semi-supervised, and reinforcement learning. In this documentation, we will take a closer look at each of these types of Machine Learning and understand their applications with examples.
 
-<img src="learning.png" height="200">
+<img src="Learning.png" height="200">
 
 
 ## Supervised Learning
