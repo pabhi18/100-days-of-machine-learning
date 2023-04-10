@@ -1,4 +1,4 @@
-# Day 4: Batch or Offline Vs Online Machine Learning
+# Day 4: Batch Vs Online Machine Learning
 
 Batch learning and online learning are two different approaches to machine learning that have their own advantages and disadvantages. In this documentation, we will explore batch learning, the problems associated with it.
 
